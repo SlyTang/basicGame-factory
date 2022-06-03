@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=gun
+comment1.params=
+comment1.target=gun()
+comment2.params=
+comment2.target=double\ getBulletpower()
+comment3.params=
+comment3.target=double\ getRange()
+numComments=4
